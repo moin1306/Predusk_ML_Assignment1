@@ -32,6 +32,12 @@ matplotlib
 
 scikit-learn
 
+## accuracy-vs-epoch plot
+![Alt Text](path/to/image.png)
+
+
+
+
 
 
 
