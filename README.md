@@ -37,8 +37,9 @@ scikit-learn
 
 ## Final Results
 
-**Final Train Accuracy**: 84.17%
-**Final Test Accuracy** : 80.00%
+Final Train Accuracy: 84.17%
+
+Final Test Accuracy: 80.00%
 
 
 
