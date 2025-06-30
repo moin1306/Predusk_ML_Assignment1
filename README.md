@@ -35,6 +35,12 @@ scikit-learn
 ## accuracy-vs-epoch plot
 ![Alt Text](accuracy_epoc_plot.png)
 
+## Final Results
+
+**Final Train Accuracy**: 84.17%
+**Final Test Accuracy** : 80.00%
+
+
 
 
 
